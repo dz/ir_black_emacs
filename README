@@ -1,0 +1,12 @@
+The IR_Black theme is originally from:
+
+http://blog.infinitered.com/entries/show/8
+
+This theme needs color-theme.
+
+To use, put this in your init files:
+
+(require 'color-theme)
+(color-theme-initialize)
+(load-file "path/to/color-theme-irblack.el")
+(color-theme-irblack)
